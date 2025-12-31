@@ -25,7 +25,7 @@ FTC offers three ways to program your robot. This repo uses the first two:
 
 Both Blocks and OnBot Java access the same FTC SDK. OnBot Java gives you direct Java access to the full API.
 
-**Ready for Android Studio?** See the corresponding `32473-sdk-decode` repo for the full Android Studio project.
+**Ready for Android Studio?** See the corresponding [32473-sdk-decode](https://github.com/bennington-area-robotics/32473-sdk-decode) repo for the full Android Studio project.
 
 ## About
 
